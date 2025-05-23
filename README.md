@@ -14,7 +14,7 @@ All tasks were developed as **proof-of-concept prototypes** in **Google Colab**,
 ### Task 1: Vessel Segmentation with a Pretrained Model
 - **Objective**: Use and improve a pretrained model (e.g., U-Net) for vascular structure segmentation in CTA/MRA scans.
 - **Key Features**: Fine-tuning, post-processing, and performance evaluation (e.g., Dice coefficient).
-- 🔗 [Open in Colab](https://drive.google.com/file/d/1b4UOxHLxl-LiMfsGb-LWbjy5y3n5AxxE/view?usp=sharing)
+- 🔗 [Open in Colab](https://colab.research.google.com/drive/1g2SkOV8rmYxQ2fllzGELtd0moEXsgFS9?usp=sharing)
 
 ### Task 2: Landmark Detection on a 3D Facial Point Cloud
 - **Objective**: Detect the nose tip using geometric heuristics or pretrained models.
